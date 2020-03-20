@@ -1,9 +1,7 @@
+test*
 .idea
 process
 stopall
-test
-
-# Visual Studio Code
 .vscode
 
 # C++ objects and libs
